@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ugur-akdemir-XT-o5O458as-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ugur-akdemir-XT-o5O458as-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ugur-akdemir-XT-o5O458as-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

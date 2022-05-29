@@ -1,0 +1,6 @@
+framework module Pods_BookCrossing {
+  umbrella header "Pods-BookCrossing-umbrella.h"
+
+  export *
+  module * { export * }
+}
